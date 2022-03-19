@@ -1,0 +1,4 @@
+Solver,Mean Test Score
+lbfgs,0.785478548
+sgd,0.775577558
+adam,0.795379538

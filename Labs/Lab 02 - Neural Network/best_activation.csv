@@ -1,0 +1,5 @@
+Activation Type,Mean Test Score
+Identity,0.778877888
+Logistic,0.775577558
+Tanh,0.759075908
+Relu,0.755775578
